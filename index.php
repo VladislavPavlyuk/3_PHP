@@ -28,6 +28,7 @@ if (!empty($_POST)) {
     }
     else {
         $redMessage = 'Please fill all fields';
+
     }
 }
 
